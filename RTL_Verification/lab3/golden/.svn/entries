@@ -1,0 +1,52 @@
+8
+
+dir
+7551
+svn+ssh://dirk@ssh.autoesl.com/home/svn/autopilot.test/ave/trunk-v2.3/BugSpray/bugzilla/2722/Dataflow/golden
+svn+ssh://dirk@ssh.autoesl.com/home/svn/autopilot.test
+
+
+
+2010-04-10T05:49:31.478108Z
+7383
+cye
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+e833741e-b217-0410-8e28-f1eef2525ac0
+
+duc_q.dat
+file
+
+
+
+
+2010-04-18T21:58:36.000000Z
+1524c724bfa100ef58dc753206205e55
+2010-04-10T05:49:31.478108Z
+7383
+cye
+
+duc_i.dat
+file
+
+
+
+
+2010-04-18T21:58:36.000000Z
+f633f1cfcfe63cf31de36c2747496ace
+2010-04-10T05:49:31.478108Z
+7383
+cye
+
