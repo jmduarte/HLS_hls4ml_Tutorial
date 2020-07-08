@@ -4,6 +4,9 @@ Original files can be downlaoded from Xilinx (after agreeing to license) here: [
 
 Guide: [ug871-vivado-high-level-synthesis-tutorial.pdf](ug871-vivado-high-level-synthesis-tutorial.pdf)
 
+## Software Requirements
+- Vivado Design Suite 2017.1 or later release
+
 ## Other Resources 
 - Parallel Programming for FPGAs (HLS Book): http://kastner.ucsd.edu/hlsbook/
 - HLS Book Labs: https://pp4fpgas.readthedocs.io/en/latest/index.html
