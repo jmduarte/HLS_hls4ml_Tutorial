@@ -34,6 +34,6 @@ vivado_hls -f run_hls.tcl
 - The results are available in the `fir_prj` directory:
   - Synthesis report located in `fir_prj\solution1\syn\report`
   - Simulation results located in `fir_prj\solution\sim\report`
-  - IP package is located in `fir_prj\solution1\impl\ip'
+  - IP package is located in `fir_prj\solution1\impl\ip`
   - RTL output is located in `fir_prj\solution1\impl` and then `\Verilog` or `\VHDL`
   
