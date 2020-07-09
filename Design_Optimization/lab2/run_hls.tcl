@@ -63,14 +63,14 @@ open_solution -reset solution1
 # Specify a Xilinx device and clock period
 # - Do not specify a clock uncertainty (margin)
 # - Let the  margin to default to 12.5% of clock period
-set_part  {xcvu9p-flgb2104-1-e}
-create_clock -period "75MHz"
+set_part  {xcvu9p-flgb2104-1-i}
+create_clock -period "200MHz"
 #set_clock_uncertainty 1.25
 
 # Simulate the C code 
 csim_design
+# Synthesize
+csynth_design
 
-# Do not perform any other steps
-# - The basic project will be opened in the GUI 
 exit
 
