@@ -7,6 +7,12 @@ Guide: [ug871-vivado-high-level-synthesis-tutorial.pdf](ug871-vivado-high-level-
 ## Software Requirements
 - Vivado Design Suite 2017.1 or later release
 
+## Lab 1
+- [Lab 1 Instructions](Introduction/lab1/README.md)
+
+## Lab 2
+- [Lab 2 Instructions](Introduction/lab2/README.md)
+
 ## Other Resources 
 - Parallel Programming for FPGAs (HLS Book): http://kastner.ucsd.edu/hlsbook/
 - HLS Book Labs: https://pp4fpgas.readthedocs.io/en/latest/index.html
