@@ -7,10 +7,10 @@ Guide: [ug871-vivado-high-level-synthesis-tutorial.pdf](ug871-vivado-high-level-
 ## Software Requirements
 - Vivado Design Suite 2017.1 or later release
 
-## Lab 1
+## Introduction Lab 1
 - [Lab 1 Instructions](Introduction/lab1/README.md)
 
-## Lab 2
+## Introduction Lab 2
 - [Lab 2 Instructions](Introduction/lab2/README.md)
 
 ## Other Resources 
