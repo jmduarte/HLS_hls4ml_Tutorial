@@ -13,6 +13,12 @@ Guide: [ug871-vivado-high-level-synthesis-tutorial.pdf](ug871-vivado-high-level-
 ## Introduction Lab 2
 - [Lab 2 Instructions](Introduction/lab2/README.md)
 
+## Pipelining Lab 1
+- [Pipelining Lab 1 Instructions](Design_Optimization/lab1/README.md)
+
+## Pipelining Lab 2
+- [Pipelining Lab 2 Instructions](Design_Optimization/lab2/README.md)
+
 ## Other Resources 
 - Parallel Programming for FPGAs (HLS Book): http://kastner.ucsd.edu/hlsbook/
 - HLS Book Labs: https://pp4fpgas.readthedocs.io/en/latest/index.html
