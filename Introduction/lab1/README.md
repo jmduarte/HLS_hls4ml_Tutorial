@@ -10,14 +10,14 @@ Select **Create New Project** from the Quick Start icons
 Enter Project Name `fir_prj`
 
 Specify project location
-- Click **Browse** and navigate to `\Vivado_HLS_Tutorial\Introduction\lab1`
+- Click **Browse** and navigate to `Vivado_HLS_Tutorial/Introduction/lab1`
 - Select the `lab1` directory and click **OK**
 - Click **Next**
 
 Specify C design files
 - Click **Add Files**
 - Select `fir.c` from the `lab1` directory
-- Use **Browse** to specify `fir.c` as the top-level function
+- Use **Browse** to specify `fir (fir.c)` as the top-level function
 - Click **Next**
 - Click **Add Files** and select `fir_test.c` and `out.gold.dat`
 - Click **Next**
@@ -26,7 +26,7 @@ Solution Configuration
 - Leave the default solution name **solution1**
 - Leave the default clock period **10 ns**
 - Leave the uncertainty blank (defaults to **12.5% of clock cycle**)
-- From the **Parts** tab, select `xcvu9p-flgb2104-1` and click **OK**
+- From the **Parts** tab, select `xcvu9p-flgb2104-1-i` and click **OK**
   - This sets the target device, which can be changed later
 - Click **Finish** to open the HLS project
 
@@ -77,4 +77,4 @@ IP Creation
 - Click the **Export RTL** button
 - Check that the Format Selection option is set to **IP Catalog**
 - Click **OK**
-- The IP block can be found in `\impl\ip\xilinx_com_hls_fir_1_0.zip`
+- The IP block can be found in `fir_prj/solution1/impl/ip/xilinx_com_hls_fir_1_0.zip`
