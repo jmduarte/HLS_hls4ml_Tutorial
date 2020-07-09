@@ -24,3 +24,4 @@ Guide: [ug871-vivado-high-level-synthesis-tutorial.pdf](ug871-vivado-high-level-
 - HLS Book Labs: https://pp4fpgas.readthedocs.io/en/latest/index.html
 - UCSD CSE 237C: http://kastner.ucsd.edu/ryan/cse237c/
 - `hls4ml` tutorial at Fast ML workshop: https://github.com/FPGA4HEP/course_material/tree/fml
+- `QKeras` in `hls4ml`: https://indico.cern.ch/event/919468/contributions/3863588/attachments/2039929/3416087/sps_qkeras.pdf
