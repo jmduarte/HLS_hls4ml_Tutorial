@@ -4,8 +4,8 @@
 
 - Take a look at the config for the 1-layer model `keras-config.yml`
 ```
-KerasJson: hls4ml/example-models/keras/KERAS_1layer.json
-KerasH5:   hls4ml/example-models/keras/KERAS_1layer_weights.h5
+KerasJson: KERAS_1layer.json
+KerasH5:   KERAS_1layer_weights.h5
 InputData: KERAS_1layer_input_features.dat
 OutputPredictions: KERAS_1layer_predictions.dat
 OutputDir: my-hls-test
