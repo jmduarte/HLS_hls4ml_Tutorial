@@ -17,5 +17,5 @@ pip install jupyter
 ```
 jupyter notebook --port 8888 --ip 127.0.0.1 --no-browser
 ```
-- Open the `hls4ml_API.ipynb` notebook and follow the instructions there
-- Then open the `hls4ml_qkeras.ipynb` notebook and follow the instructions there
+- Open the [hls4ml_API.ipynb](hls4ml_API.ipynb) notebook and follow the instructions there
+- Then open the [hls4ml_qkeras.ipynb](hls4ml_qkeras.ipynb) notebook and follow the instructions there
