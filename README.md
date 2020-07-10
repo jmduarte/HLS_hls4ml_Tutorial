@@ -5,7 +5,12 @@ Original files can be downlaoded from Xilinx (after agreeing to license) here: [
 Guide: [ug871-vivado-high-level-synthesis-tutorial.pdf](ug871-vivado-high-level-synthesis-tutorial.pdf)
 
 ## Software Requirements
-- Vivado Design Suite 2017.1 or later release
+- Vivado/Vitis Design Suite 2017.1 or later release (and source `/PATH/TO/Vivado/20XX.X/settings64.sh` with correct path/version)
+- Miniconda (can be downloaded from https://docs.conda.io/en/latest/miniconda.html)
+- Once Miniconda is installed and setup, create the conda environment with `hls4ml` and `qkeras`:
+```
+conda env create -f environment.yml
+```
 
 ## Labs
 
