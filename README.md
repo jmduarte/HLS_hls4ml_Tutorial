@@ -13,8 +13,8 @@ Guide: [ug871-vivado-high-level-synthesis-tutorial.pdf](ug871-vivado-high-level-
 1. [Introduction to HLS Lab 2](Introduction/lab2/README.md)
 1. [Pipelining Lab 1](Design_Optimization/lab1/README.md)
 1. [Pipelining Lab 2](Design_Optimization/lab2/README.md)
-1. hls4ml Lab
-1. hls4ml+QKeras Lab
+1. [hls4ml Lab](hls4ml/lab1/README.md)
+1. [hls4ml+QKeras Lab](hls4ml/lab2/README.md)
 
 ## Other Resources 
 - Parallel Programming for FPGAs (HLS Book): http://kastner.ucsd.edu/hlsbook/
@@ -22,4 +22,5 @@ Guide: [ug871-vivado-high-level-synthesis-tutorial.pdf](ug871-vivado-high-level-
 - UCSD CSE 237C: http://kastner.ucsd.edu/ryan/cse237c/
 - `hls4ml` tutorial at Fast ML workshop: https://github.com/FPGA4HEP/course_material/tree/fml
 - `QKeras` in `hls4ml`: https://indico.cern.ch/event/919468/contributions/3863588/attachments/2039929/3416087/sps_qkeras.pdf
-- `QKeras` functionality notebook: https://gist.github.com/thesps/c7e59cf5597804693b8663ddc9496b64
+- `QKeras` and `hls4ml` API functionality notebook: https://gist.github.com/thesps/c7e59cf5597804693b8663ddc9496b64
+- `QKeras` and `hls4ml` API PR: https://github.com/hls-fpga-machine-learning/hls4ml/pull/195
