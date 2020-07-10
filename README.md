@@ -24,3 +24,4 @@ Guide: [ug871-vivado-high-level-synthesis-tutorial.pdf](ug871-vivado-high-level-
 - `QKeras` in `hls4ml`: https://indico.cern.ch/event/919468/contributions/3863588/attachments/2039929/3416087/sps_qkeras.pdf
 - `QKeras` and `hls4ml` API functionality notebook: https://gist.github.com/thesps/c7e59cf5597804693b8663ddc9496b64
 - `QKeras` and `hls4ml` API PR: https://github.com/hls-fpga-machine-learning/hls4ml/pull/195
+- Recent `hls4ml` tutorial for DUNE: https://github.com/thesps/hls4ml-tutorial
