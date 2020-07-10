@@ -1,6 +1,6 @@
 # hls4ml Lab
 
-- Download and install the package (Note you may add `--user` for pip install if not inside of a conda environment for instance)
+- Make sure your python environment (`conda` or otherwise) with `hls4ml` is working
 
 ```
 git clone https://github.com/hls-fpga-machine-learning/hls4ml
