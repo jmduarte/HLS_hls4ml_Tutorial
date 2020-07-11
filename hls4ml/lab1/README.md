@@ -2,17 +2,10 @@
 
 - Make sure your python environment (`conda` or otherwise) with `hls4ml` is working
 
-```
-git clone https://github.com/hls-fpga-machine-learning/hls4ml
-cd hls4ml
-pip install -e .[profiling] 
-cd ..
-```
-
 - Take a look at the config for the 1-layer model `keras-config.yml`
 ```
-KerasJson: hls4ml/example-models/keras/KERAS_1layer.json
-KerasH5:   hls4ml/example-models/keras/KERAS_1layer_weights.h5
+KerasJson: KERAS_1layer.json
+KerasH5:   KERAS_1layer_weights.h5
 InputData: KERAS_1layer_input_features.dat
 OutputPredictions: KERAS_1layer_predictions.dat
 OutputDir: my-hls-test
