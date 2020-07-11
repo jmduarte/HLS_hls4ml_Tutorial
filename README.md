@@ -11,7 +11,10 @@
 ```
 conda env create -f environment.yml
 ```
-- The setup to make a Jupyter kernel with the Xilinx libraries is here: [hls4ml/lab2/README.md](hls4ml/lab2/README.md)
+- The setup to make a Jupyter kernel with the Xilinx libraries is (assuming Vivado is already set up / sourced)
+```
+python setup_kernel.py
+```
 
 ## Labs
 
